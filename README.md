@@ -11,6 +11,7 @@ os.Setenv(\"FYNE_FONT\",\"wqy-microhei.ttf\")"
 ```golang
 import _ \"github.com/sxn0508/fyne_zh_CN\""
 ```
+完整代码如下
 ```golang
 package main
 
